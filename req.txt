@@ -1,0 +1,8 @@
+shutil
+tkinter
+hashlib
+threading
+psutil
+time
+datetime
+pycryptodome
