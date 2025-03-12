@@ -1,5 +1,7 @@
 # Lock-Unlock-Python-Lib
 
+## 🛠️Version 1.6.530
+
 Lock-Unlock-Python-Lib is a Python library that encrypts and decrypts folders using AES encryption.
 It provides a simple way to secure your files and retrieve them whenever needed.
 
