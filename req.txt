@@ -4,5 +4,12 @@ hashlib
 threading
 psutil
 time
+random
+string
+webbrowser
+requests
+pillow
+io
+logging
 datetime
 pycryptodome
