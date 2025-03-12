@@ -1,6 +1,6 @@
 # Lock-Unlock-Python-Lib 
 
-# Versiyon 1.6.530
+## 🛠️Sürüm 1.6.530
 
 Lock-Unlock-Python-Lib, AES şifrelemesini kullanarak klasörleri şifreleyen ve şifresini çözen bir Python kütüphanesidir.
 Dosyalarınızı güvence altına almak ve gerektiğinde geri almak için basit bir yol sağlar.
